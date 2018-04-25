@@ -6,4 +6,8 @@ export class StringProperty extends AtomicProperty {
     return '';
   }
 
+  _hasValue() {
+    return true;
+  }
+
 }
