@@ -7,7 +7,6 @@ coverage/
 yarn.lock
 /.vscode
 release/
-*.metadata.json
 *.ngfactory.ts
 *.tgz
 
